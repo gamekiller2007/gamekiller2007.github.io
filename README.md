@@ -19,4 +19,4 @@ _Hamster Kombat стал частью массовой культуры в 2024 
 
 
 
-(Число ПИ)[PI.md](https://github.com/tm0009/trivial/blob/main/PI.md)
+(Число ПИ)[PI.md]()
